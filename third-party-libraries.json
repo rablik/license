@@ -1,0 +1,2533 @@
+[ {
+  "name" : ".NET Runtime",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "8.0.0-preview1",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : ".babelrc JSON Schema (.babelrc-schema.json)",
+  "url" : "https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/babelrc.json",
+  "version" : "JSON schema for Babel 6+ configuration files",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://raw.githubusercontent.com/SchemaStore/schemastore/master/LICENSE"
+}, {
+  "name" : ".eslintrc JSON Schema (.eslintrc-schema.json)",
+  "url" : "https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/eslintrc.json",
+  "version" : "JSON schema for ESLint 4 configuration files",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://raw.githubusercontent.com/SchemaStore/schemastore/master/LICENSE"
+}, {
+  "name" : "ANTLR 4.9 Runtime",
+  "url" : "https://www.antlr.org",
+  "version" : "4.9.2",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://www.antlr.org/license.html"
+}, {
+  "name" : "ANTLRv2 Runtime",
+  "url" : "http://www.antlr2.org/",
+  "version" : "2.7.7.3",
+  "license" : "ANTLR Software Rights Notice",
+  "licenseUrl" : "https://spdx.org/licenses/ANTLR-PD.html"
+}, {
+  "name" : "ASM (JetBrains's fork)",
+  "url" : "https://github.com/JetBrains/intellij-deps-asm",
+  "version" : "9.2",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://github.com/JetBrains/intellij-deps-asm/blob/master/LICENSE.txt"
+}, {
+  "name" : "AWSSDK - Core Runtime",
+  "url" : "https://github.com/aws/aws-sdk-net/",
+  "version" : "3.7.103.23",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "AWSSDK - S3",
+  "url" : "https://github.com/aws/aws-sdk-net/",
+  "version" : "3.7.101.61",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "Amazon Ion Java",
+  "url" : "https://github.com/amzn/ion-java",
+  "version" : "1.8.2-4",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/amzn/ion-java/blob/master/LICENSE"
+}, {
+  "name" : "Apache Axis",
+  "url" : "https://axis.apache.org/axis/",
+  "version" : "1.4",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "http://svn.apache.org/viewvc/axis/axis1/java/trunk/LICENSE?view=markup"
+}, {
+  "name" : "Apache Commons CLI",
+  "url" : "https://commons.apache.org/proper/commons-cli/",
+  "version" : "1.5.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://gitbox.apache.org/repos/asf?p=commons-cli.git;a=blob_plain;f=LICENSE.txt;hb=HEAD"
+}, {
+  "name" : "Apache Commons Codec",
+  "url" : "https://commons.apache.org/proper/commons-codec/",
+  "version" : "1.15",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/apache/commons-codec/blob/master/LICENSE.txt"
+}, {
+  "name" : "Apache Commons Collections",
+  "url" : "https://commons.apache.org/proper/commons-collections/",
+  "version" : "3.2.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://gitbox.apache.org/repos/asf?p=commons-collections.git;a=blob_plain;f=LICENSE.txt;hb=HEAD"
+}, {
+  "name" : "Apache Commons Compress",
+  "url" : "https://commons.apache.org/proper/commons-compress/",
+  "version" : "1.22",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://gitbox.apache.org/repos/asf?p=commons-compress.git;a=blob_plain;f=LICENSE.txt;hb=HEAD"
+}, {
+  "name" : "Apache Commons Discovery",
+  "url" : "https://commons.apache.org/dormant/commons-discovery/",
+  "version" : "0.4",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://commons.apache.org/dormant/commons-discovery/license.html"
+}, {
+  "name" : "Apache Commons HTTPClient",
+  "url" : "https://hc.apache.org/httpclient-3.x",
+  "version" : "3.1&nbsp; (with patch by JetBrains)",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "Apache Commons IO",
+  "url" : "https://commons.apache.org/proper/commons-io/",
+  "version" : "2.11.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://gitbox.apache.org/repos/asf?p=commons-io.git;a=blob_plain;f=LICENSE.txt;hb=HEAD"
+}, {
+  "name" : "Apache Commons Imaging (JetBrains's fork)",
+  "url" : "https://github.com/JetBrains/intellij-deps-commons-imaging",
+  "version" : "1.0-RC-1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/intellij-deps-commons-imaging/blob/master/LICENSE.txt"
+}, {
+  "name" : "Apache Commons Lang",
+  "url" : "https://commons.apache.org/proper/commons-lang/",
+  "version" : "3.12.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://gitbox.apache.org/repos/asf?p=commons-lang.git;a=blob_plain;f=LICENSE.txt;hb=HEAD"
+}, {
+  "name" : "Apache Commons Logging",
+  "url" : "https://commons.apache.org/proper/commons-logging/",
+  "version" : "1.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://gitbox.apache.org/repos/asf?p=commons-logging.git;a=blob_plain;f=LICENSE.txt;hb=HEAD"
+}, {
+  "name" : "Apache Commons Net",
+  "url" : "https://commons.apache.org/proper/commons-net/",
+  "version" : "3.9.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://gitbox.apache.org/repos/asf?p=commons-net.git;a=blob_plain;f=LICENSE.txt;hb=HEAD"
+}, {
+  "name" : "Apache Commons Pool",
+  "url" : "https://commons.apache.org/proper/commons-pool/",
+  "version" : "2.11.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "Apache Commons VFS (JetBrains's fork)",
+  "url" : "https://github.com/JetBrains/intellij-deps-commons-vfs",
+  "version" : "3.0.10",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "Apache Commons VFS Jackrabbit 2",
+  "url" : "https://commons.apache.org/proper/commons-vfs/commons-vfs2-jackrabbit2/",
+  "version" : "3.0.10",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "Apache Ivy",
+  "url" : "https://github.com/apache/ant-ivy",
+  "version" : "2.5.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/apache/ant-ivy/blob/master/LICENSE"
+}, {
+  "name" : "Apache Lucene",
+  "url" : "https://lucene.apache.org/java",
+  "version" : "8.11.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "Appccelerate.StateMachine",
+  "url" : "https://github.com/appccelerate/statemachine",
+  "version" : "3.3.0",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "Armature Core Package",
+  "url" : "https://github.com/Ed-Pavlov/Armature",
+  "version" : "1.2.1",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "Armature Interface Package",
+  "url" : "https://github.com/Ed-Pavlov/Armature",
+  "version" : "1.2.1",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "Armature Package",
+  "url" : "https://github.com/Ed-Pavlov/Armature",
+  "version" : "1.2.1",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "Authentication Library for Visual Studio Team Services and Team Foundation Server",
+  "url" : "https://java.visualstudio.com/",
+  "version" : "0.6.4",
+  "license" : "MIT",
+  "licenseUrl" : "https://raw.githubusercontent.com/microsoft/vsts-authentication-library-for-java/master/LICENSE.txt"
+}, {
+  "name" : "AutoMapper Package",
+  "url" : "https://automapper.org/",
+  "version" : "10.1.2",
+  "license" : "MIT License (Jimmy Bogard)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "Autofac Package",
+  "url" : "http://autofac.org/",
+  "version" : "4.8.1",
+  "license" : "MIT License (Autofac Project)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_AutofacProject.html"
+}, {
+  "name" : "Automaton",
+  "url" : "https://www.brics.dk/automaton/",
+  "version" : "1.12-1",
+  "license" : "BSD 2-Clause",
+  "licenseUrl" : "https://github.com/cs-au-dk/dk.brics.automaton/blob/master/COPYING"
+}, {
+  "name" : "Boost",
+  "url" : "https://www.boost.org/",
+  "version" : "1.80.0",
+  "license" : "Boost Software License 1.0",
+  "licenseUrl" : "https://spdx.org/licenses/BSL-1.0.html"
+}, {
+  "name" : "Bouncy Castle Portable",
+  "url" : "https://www.bouncycastle.org/csharp/",
+  "version" : "1.9.0",
+  "license" : "MIT License (The Legion of the Bouncy Castle Inc)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_TheLegionOfRheBouncyCastleInc.html"
+}, {
+  "name" : "Byte Buddy agent",
+  "url" : "https://github.com/raphw/byte-buddy",
+  "version" : "1.12.17",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/raphw/byte-buddy/blob/master/LICENSE"
+}, {
+  "name" : "CGLib",
+  "url" : "https://github.com/cglib/cglib/",
+  "version" : "3.3.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/cglib/cglib/blob/master/LICENSE"
+}, {
+  "name" : "CLR Memory Diagnostics (ClrMD)",
+  "url" : "https://github.com/Microsoft/clrmd",
+  "version" : "2.0.20220505.11",
+  "license" : "MIT License (Microsoft)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "Castle Core Package",
+  "url" : "http://www.castleproject.org/",
+  "version" : "4.4.1",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "Clang-Format",
+  "url" : "http://llvm.org/",
+  "version" : "15.0.2",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "Clang-tidy",
+  "url" : "http://llvm.org/",
+  "version" : "15.0.0.1",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "ClrStack",
+  "url" : "https://github.com/JetBrains/clrstack",
+  "version" : "2.0.6",
+  "license" : "MIT License (Mikhail Filippov, Ilia Kirianovskii)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "Command Line Interface Parser for Java",
+  "url" : "https://code.google.com/p/cli-parser/",
+  "version" : "1.1.6",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "Common Annotations for the JavaTM Platform API",
+  "url" : "https://github.com/javaee/javax.annotation",
+  "version" : "1.3.2",
+  "license" : "CDDL 1.1 / GPL 2.0 + Classpath",
+  "licenseUrl" : "https://oss.oracle.com/licenses/CDDL+GPL-1.1"
+}, {
+  "name" : "Common interfaces, helpers and data models classes for Java Authentication Library",
+  "url" : "https://java.visualstudio.com/",
+  "version" : "0.6.4",
+  "license" : "MIT",
+  "licenseUrl" : "https://raw.githubusercontent.com/microsoft/vsts-authentication-library-for-java/master/LICENSE.txt"
+}, {
+  "name" : "DebuggerComInteropAnalyzer",
+  "url" : "",
+  "version" : "1.0.1",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "DotNetZip Package",
+  "url" : "https://github.com/haf/DotNetZip.Semverd",
+  "version" : "1.11.0",
+  "license" : "Microsoft Public License",
+  "licenseUrl" : "https://spdx.org/licenses/MS-PL.html"
+}, {
+  "name" : "Dynamic Data",
+  "url" : "http://dynamic-data.org/",
+  "version" : "6.16.2",
+  "license" : "MIT License (Roland Pheasant)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "EditorConfig Java Parser",
+  "url" : "https://github.com/ec4j/ec4j",
+  "version" : "0.3.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "ExCSS .NET Stylesheet Parser",
+  "url" : "",
+  "version" : "4.1.3.18",
+  "license" : "MIT License (Tyler Brinks)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "FiraCode",
+  "url" : "https://github.com/tonsky/FiraCode",
+  "version" : "1.206",
+  "license" : "OFL",
+  "licenseUrl" : "https://github.com/tonsky/FiraCode/blob/master/LICENSE"
+}, {
+  "name" : "Flexmark",
+  "url" : "https://github.com/vsch/flexmark-java/",
+  "version" : "0.64.0",
+  "license" : "BSD 2-Clause",
+  "licenseUrl" : "https://opensource.org/licenses/BSD-2-Clause"
+}, {
+  "name" : "Flow library files",
+  "url" : "https://github.com/facebook/flow",
+  "version" : "0.81.0",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/facebook/flow/blob/master/LICENSE"
+}, {
+  "name" : "Git-Credential-Manager",
+  "url" : "",
+  "version" : "0.1.0",
+  "license" : "MIT License (Microsoft Corporation)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_MicrosoftCorporation.html"
+}, {
+  "name" : "Google Blink source code",
+  "url" : "https://www.chromium.org/blink",
+  "version" : "custom revision",
+  "license" : "Creative Commons Attributions 2.5",
+  "licenseUrl" : "https://chromium.googlesource.com/chromium/blink/+/master/LICENSE"
+}, {
+  "name" : "Google Drive API V3",
+  "url" : "https://github.com/googleapis/google-api-java-client-services/tree/master/clients/google-api-services-drive/v3",
+  "version" : "v3-rev20211107-1.32.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/googleapis/google-api-java-client-services/blob/master/LICENSE"
+}, {
+  "name" : "GoogleAnalyticsTracker.Core",
+  "url" : "https://github.com/maartenba/GoogleAnalyticsTracker",
+  "version" : "7.0.1",
+  "license" : "Microsoft Public License",
+  "licenseUrl" : "https://spdx.org/licenses/MS-PL.html"
+}, {
+  "name" : "GoogleAnalyticsTracker.Simple",
+  "url" : "https://github.com/maartenba/GoogleAnalyticsTracker",
+  "version" : "7.0.1",
+  "license" : "Microsoft Public License",
+  "licenseUrl" : "https://spdx.org/licenses/MS-PL.html"
+}, {
+  "name" : "Grazie AI",
+  "url" : "https://packages.jetbrains.team/maven/p/grazi/grazie-platform-public/",
+  "version" : "0.2.112",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "Groovy",
+  "url" : "https://groovy-lang.org/",
+  "version" : "3.0.13",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/apache/groovy/blob/master/LICENSE"
+}, {
+  "name" : "Groovy JSON",
+  "url" : "https://groovy-lang.org/",
+  "version" : "3.0.13",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/apache/groovy/blob/master/LICENSE"
+}, {
+  "name" : "Groovy JSR-223",
+  "url" : "https://groovy-lang.org/",
+  "version" : "3.0.13",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/apache/groovy/blob/master/LICENSE"
+}, {
+  "name" : "Groovy Templates",
+  "url" : "https://groovy-lang.org/",
+  "version" : "3.0.13",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/apache/groovy/blob/master/LICENSE"
+}, {
+  "name" : "Groovy XML",
+  "url" : "https://groovy-lang.org/",
+  "version" : "3.0.13",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/apache/groovy/blob/master/LICENSE"
+}, {
+  "name" : "Gson",
+  "url" : "https://github.com/google/gson",
+  "version" : "2.10.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/google/gson/blob/master/LICENSE"
+}, {
+  "name" : "Guava",
+  "url" : "https://github.com/google/guava",
+  "version" : "31.1-jre",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://raw.githubusercontent.com/google/guava/master/LICENSE"
+}, {
+  "name" : "HDR Histogram",
+  "url" : "https://github.com/HdrHistogram/HdrHistogram",
+  "version" : "2.1.12",
+  "license" : "CC0 1.0 Universal",
+  "licenseUrl" : "https://github.com/HdrHistogram/HdrHistogram/blob/master/LICENSE.txt"
+}, {
+  "name" : "HarfBuzzSharp",
+  "url" : "https://go.microsoft.com/fwlink/?linkid=868515",
+  "version" : "2.8.2.149",
+  "license" : "MIT License (Xamarin Inc, Microsoft Corporation)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_XamarinInc-MicrosoftCorporation.html"
+}, {
+  "name" : "HarfBuzzSharp - Native Assets for Win32",
+  "url" : "https://go.microsoft.com/fwlink/?linkid=868515",
+  "version" : "2.8.2.149",
+  "license" : "MIT License (Xamarin Inc, Microsoft Corporation)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_XamarinInc-MicrosoftCorporation.html"
+}, {
+  "name" : "HtmlAgilityPack Package",
+  "url" : "http://html-agility-pack.net/",
+  "version" : "1.11.40",
+  "license" : "MIT License (ZZZ Projects)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_ZzzProjects.html"
+}, {
+  "name" : "HttpComponents HttpClient",
+  "url" : "https://hc.apache.org/httpcomponents-client-ga/index.html",
+  "version" : "4.5.14",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "ICU4J",
+  "url" : "https://site.icu-project.org/",
+  "version" : "72.1",
+  "license" : "Unicode",
+  "licenseUrl" : "https://www.unicode.org/copyright.html"
+}, {
+  "name" : "ISO RELAX",
+  "url" : "https://sourceforge.net/projects/iso-relax/",
+  "version" : "20030108",
+  "license" : "MIT",
+  "licenseUrl" : "https://opensource.org/licenses/MIT"
+}, {
+  "name" : "Ice4j",
+  "url" : "https://github.com/jitsi/ice4j",
+  "version" : "3.0-54-g2baae57",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/jitsi/ice4j/blob/master/LICENSE"
+}, {
+  "name" : "Inconsolata",
+  "url" : "https://github.com/google/fonts/tree/main/ofl/inconsolata",
+  "version" : "001.010",
+  "license" : "OFL",
+  "licenseUrl" : "https://github.com/google/fonts/blob/master/ofl/inconsolata/OFL.txt"
+}, {
+  "name" : "Incremental DOM",
+  "url" : "https://github.com/google/incremental-dom",
+  "version" : "0.7.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/google/incremental-dom/blob/master/LICENSE"
+}, {
+  "name" : "IntelliJ IDEA Code Coverage Agent",
+  "url" : "https://github.com/jetbrains/intellij-coverage",
+  "version" : "1.0.706",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/intellij-coverage/blob/master/LICENSE"
+}, {
+  "name" : "IntelliJ IDEA Test Discovery Agent",
+  "url" : "https://github.com/JetBrains/intellij-coverage/tree/master/test-discovery",
+  "version" : "1.0.706",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/intellij-coverage/blob/master/LICENSE"
+}, {
+  "name" : "JAXB (JSR 222) Reference Implementation",
+  "url" : "https://github.com/javaee/jaxb-v2",
+  "version" : "2.3.1",
+  "license" : "CDDL 1.1 / GPL 2.0 + Classpath",
+  "licenseUrl" : "https://oss.oracle.com/licenses/CDDL+GPL-1.1"
+}, {
+  "name" : "JAXB (Java Architecture for XML Binding) API",
+  "url" : "https://github.com/javaee/jaxb-spec",
+  "version" : "2.3.1",
+  "license" : "CDDL 1.1 / GPL 2.0 + Classpath",
+  "licenseUrl" : "https://oss.oracle.com/licenses/CDDL+GPL-1.1"
+}, {
+  "name" : "JCEF",
+  "url" : "https://bitbucket.org/chromiumembedded/java-cef",
+  "version" : "104.4.26-g4180781-chromium-104.0.5112.102-api-1.9",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://bitbucket.org/chromiumembedded/java-cef/src/master/LICENSE.txt"
+}, {
+  "name" : "JCIP Annotations",
+  "url" : "https://www.jcip.net",
+  "version" : "1.0",
+  "license" : "Creative Commons Attribution License",
+  "licenseUrl" : "https://creativecommons.org/licenses/by/2.5"
+}, {
+  "name" : "JCodings",
+  "url" : "https://github.com/jruby/jcodings",
+  "version" : "1.0.55",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/jruby/jcodings/blob/master/LICENSE.txt"
+}, {
+  "name" : "JGit (develar's fork)",
+  "url" : "https://github.com/develar/jgit",
+  "version" : "4.0",
+  "license" : "Eclipse Distribution License 1.0",
+  "licenseUrl" : "https://www.eclipse.org/org/documents/edl-v10.php"
+}, {
+  "name" : "JGoodies Common",
+  "url" : "https://www.jgoodies.com/freeware/libraries/looks/",
+  "version" : "1.4.0",
+  "license" : "BSD 2-Clause",
+  "licenseUrl" : "https://opensource.org/licenses/BSD-2-Clause"
+}, {
+  "name" : "JGoodies Forms",
+  "url" : "https://www.jgoodies.com/freeware/libraries/forms/",
+  "version" : "1.1-preview",
+  "license" : "BSD 2-Clause",
+  "licenseUrl" : "https://opensource.org/licenses/BSD-2-Clause"
+}, {
+  "name" : "JNA",
+  "url" : "https://github.com/java-native-access/jna",
+  "version" : "5.12.1",
+  "license" : "LGPL 2.1",
+  "licenseUrl" : "https://www.opensource.org/licenses/lgpl-2.1.php"
+}, {
+  "name" : "JRuby Parser 0.5.3",
+  "url" : "https://github.com/jruby/jruby-parser",
+  "version" : "0.5.3",
+  "license" : "CPL 1.0",
+  "licenseUrl" : "https://github.com/jruby/jruby/blob/master/LICENSE.RUBY"
+}, {
+  "name" : "JRuby Parser 0.5.4",
+  "url" : "https://github.com/jruby/jruby-parser",
+  "version" : "0.5.4",
+  "license" : "CPL 1.0",
+  "licenseUrl" : "https://github.com/jruby/jruby/blob/master/LICENSE.RUBY"
+}, {
+  "name" : "JSON Schema",
+  "url" : "https://github.com/schemastore/schemastore/",
+  "version" : "custom revision",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://raw.githubusercontent.com/SchemaStore/schemastore/master/LICENSE"
+}, {
+  "name" : "JSON Schema (schema.json)",
+  "url" : "https://json-schema.org/draft-04/schema#",
+  "version" : "draft-04",
+  "license" : "BSD 2-Clause",
+  "licenseUrl" : "https://opensource.org/licenses/BSD-2-Clause"
+}, {
+  "name" : "JSON Schema (schema06.json)",
+  "url" : "https://json-schema.org/draft-06/schema#",
+  "version" : "draft-06",
+  "license" : "BSD 2-Clause",
+  "licenseUrl" : "https://opensource.org/licenses/BSD-2-Clause"
+}, {
+  "name" : "JSON Schema (schema07.json)",
+  "url" : "https://json-schema.org/draft-07/schema#",
+  "version" : "draft-07",
+  "license" : "BSD 2-Clause",
+  "licenseUrl" : "https://opensource.org/licenses/BSD-2-Clause"
+}, {
+  "name" : "JSON Schema for Typings TypeScript definitions manager (typings-schema.json)",
+  "url" : "https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/typings.json",
+  "version" : "custom revision",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://raw.githubusercontent.com/SchemaStore/schemastore/master/LICENSE"
+}, {
+  "name" : "JSTUN",
+  "url" : "https://github.com/tking/JSTUN",
+  "version" : "0.7.5.20200723",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "JSch",
+  "url" : "https://www.jcraft.com/jsch/",
+  "version" : "0.1.55",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "http://www.jcraft.com/jsch/LICENSE.txt"
+}, {
+  "name" : "Jackson",
+  "url" : "https://github.com/FasterXML/jackson",
+  "version" : "2.14.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/FasterXML/jackson-core/blob/2.14/LICENSE"
+}, {
+  "name" : "Jackson Databind",
+  "url" : "https://github.com/FasterXML/jackson-databind",
+  "version" : "2.14.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/FasterXML/jackson-databind/blob/2.14/LICENSE"
+}, {
+  "name" : "Jackson Dataformat YAML",
+  "url" : "https://github.com/FasterXML/jackson-dataformats-text",
+  "version" : "2.14.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/FasterXML/jackson-dataformats-text/blob/2.14/pom.xml"
+}, {
+  "name" : "Jackson Datatype JSR310",
+  "url" : "https://github.com/FasterXML/jackson-modules-java8",
+  "version" : "2.13.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "Jackson Datatype Joda",
+  "url" : "https://github.com/FasterXML/jackson-datatype-joda",
+  "version" : "2.14.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "Jackson Module Kotlin",
+  "url" : "https://github.com/FasterXML/jackson-module-kotlin",
+  "version" : "2.14.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/FasterXML/jackson-module-kotlin/blob/2.14/LICENSE"
+}, {
+  "name" : "Jakarta ORO",
+  "url" : "https://jakarta.apache.org/oro/",
+  "version" : "2.0.8",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://svn.apache.org/repos/asf/jakarta/oro/trunk/LICENSE"
+}, {
+  "name" : "Java Compatibility",
+  "url" : "https://github.com/JetBrains/intellij-deps-java-compatibility",
+  "version" : "1.0.1",
+  "license" : "GPL 2.0 + Classpath",
+  "licenseUrl" : "https://raw.githubusercontent.com/JetBrains/intellij-deps-java-compatibility/master/LICENSE"
+}, {
+  "name" : "Java Server Pages (JSP) for Visual Studio Code",
+  "url" : "https://github.com/pthorsson/vscode-jsp",
+  "version" : "0.0.3",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/pthorsson/vscode-jsp/blob/master/LICENSE"
+}, {
+  "name" : "Java String Similarity",
+  "url" : "https://github.com/tdebatty/java-string-similarity",
+  "version" : "2.0.0",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/tdebatty/java-string-similarity/blob/master/LICENSE.md"
+}, {
+  "name" : "Java-WebSocket",
+  "url" : "https://github.com/TooTallNate/Java-WebSocket",
+  "version" : "1.5.3",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/TooTallNate/Java-WebSocket/blob/master/LICENSE"
+}, {
+  "name" : "JavaBeans Activation Framework",
+  "url" : "https://github.com/javaee/activation",
+  "version" : "1.2.0",
+  "license" : "CDDL 1.1 / GPL 2.0 + Classpath",
+  "licenseUrl" : "https://github.com/javaee/activation/blob/master/LICENSE.txt"
+}, {
+  "name" : "Jaxen",
+  "url" : "https://github.com/jaxen-xpath/jaxen",
+  "version" : "1.2.0",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://github.com/jaxen-xpath/jaxen/blob/master/LICENSE.txt"
+}, {
+  "name" : "Jayway JsonPath",
+  "url" : "https://github.com/json-path/JsonPath",
+  "version" : "2.7.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/json-path/JsonPath/blob/master/LICENSE"
+}, {
+  "name" : "JetBrains Annotations",
+  "url" : "https://www.jetbrains.com/help/resharper/Code_Analysis__Code_Annotations.html",
+  "version" : "2022.3.1",
+  "license" : "MIT License (JetBrains)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_JetBrains.html"
+}, {
+  "name" : "JetBrains Annotations",
+  "url" : "https://github.com/JetBrains/java-annotations",
+  "version" : "24.0.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/java-annotations/blob/master/LICENSE.txt"
+}, {
+  "name" : "JetBrains Annotations for Java 5",
+  "url" : "https://github.com/JetBrains/java-annotations",
+  "version" : "24.0.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/java-annotations/blob/master/LICENSE.txt"
+}, {
+  "name" : "JetBrains AppStore NotaryApi Package",
+  "url" : "https://github.com/JetBrains/apple-notary-api-dotnet-client",
+  "version" : "1.0.10",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains Avalonia Angle Natives windows-arm64 Package",
+  "url" : "",
+  "version" : "2.1.0.149",
+  "license" : "MIT License (Avalonia UI)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia Angle Natives windows-x64 Package",
+  "url" : "",
+  "version" : "2.1.0.149",
+  "license" : "MIT License (Avalonia UI)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia Angle Natives windows-x86 Package",
+  "url" : "",
+  "version" : "2.1.0.149",
+  "license" : "MIT License (Avalonia UI)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia AvaloniaEdit Package",
+  "url" : "",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (AvaloniaEdit)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia Controls DataGrid Package",
+  "url" : "https://avaloniaui.net/",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Avalonia.Controls.DataGrid)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia Desktop Package",
+  "url" : "https://avaloniaui.net/",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Avalonia.Desktop)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia Diagnostics Package",
+  "url" : "https://avaloniaui.net/",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Avalonia.Diagnostics)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia FreeDesktop Package",
+  "url" : "https://avaloniaui.net/",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Avalonia.FreeDesktop)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia Native Package",
+  "url" : "https://avaloniaui.net/",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Avalonia.Native)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia Package",
+  "url" : "https://avaloniaui.net/",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Avalonia)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia Remote Protocol Package",
+  "url" : "https://avaloniaui.net/",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Avalonia.Remote.Protocol)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia Skia Package",
+  "url" : "https://avaloniaui.net/",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Avalonia.Skia)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia Win32 Package",
+  "url" : "https://avaloniaui.net/",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Avalonia.Win32)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia X11 Package",
+  "url" : "https://avaloniaui.net/",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Avalonia.X11)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia Xaml Interactions Package",
+  "url" : "https://github.com/wieslawsoltes/AvaloniaBehaviors",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Wiesław Šoltés)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Avalonia Xaml Interactivity Package",
+  "url" : "https://github.com/wieslawsoltes/AvaloniaBehaviors",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Wiesław Šoltés)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains DotNetCore DbgShim windows-arm64 Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "6.0.20220811.19",
+  "license" : "MIT License (JetBrains)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_JetBrains.html"
+}, {
+  "name" : "JetBrains DotNetCore DbgShim windows-x64 Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "6.0.20220811.19",
+  "license" : "MIT License (JetBrains)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_JetBrains.html"
+}, {
+  "name" : "JetBrains DotNetCore DbgShim windows-x86 Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "6.0.20220811.19",
+  "license" : "MIT License (JetBrains)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_JetBrains.html"
+}, {
+  "name" : "JetBrains DotNetCore Runtime linux-arm Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "7.0.20230115.31",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "JetBrains DotNetCore Runtime linux-arm64 Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "7.0.20230115.31",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "JetBrains DotNetCore Runtime linux-musl-arm Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "7.0.20230115.31",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "JetBrains DotNetCore Runtime linux-musl-arm64 Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "7.0.20230115.31",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "JetBrains DotNetCore Runtime linux-musl-x64 Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "7.0.20230115.31",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "JetBrains DotNetCore Runtime linux-x64 Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "7.0.20230115.31",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "JetBrains DotNetCore Runtime macos-arm64 Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "7.0.20230115.31",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "JetBrains DotNetCore Runtime macos-x64 Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "7.0.20230115.31",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "JetBrains DotNetCore Runtime windows-arm64 Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "7.0.20230115.31",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "JetBrains DotNetCore Runtime windows-x64 Package",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "7.0.20230115.31",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "JetBrains FormatRipper Package",
+  "url" : "https://github.com/JetBrains/format-ripper/blob/master/Readme.md",
+  "version" : "1.1.0",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains ICorDebug Package",
+  "url" : "",
+  "version" : "2.0.20221011.82",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains Lifetimes Package",
+  "url" : "https://github.com/JetBrains/rd",
+  "version" : "2023.1.2",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains Markdown Avalonia SyntaxHigh Package",
+  "url" : "https://github.com/whistyun/Markdown.Avalonia",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (whistyun)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Markdown Avalonia Tight Package",
+  "url" : "https://github.com/whistyun/Markdown.Avalonia",
+  "version" : "0.10.18.149",
+  "license" : "MIT License (Bevan Arps(original), whistyun)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Microsoft FileFormats Package",
+  "url" : "https://github.com/dotnet/symstore",
+  "version" : "1.0.150601.3",
+  "license" : "MIT License (Microsoft)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Microsoft SymbolStore Package",
+  "url" : "https://github.com/dotnet/symstore",
+  "version" : "1.0.150601.3",
+  "license" : "MIT License (Microsoft)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Microsoft Web WebView2 Package",
+  "url" : "https://aka.ms/webview",
+  "version" : "1.0.1587.40",
+  "license" : "BSD 3-Clause \"New\" or \"Revised\" License (Microsoft Corporation)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/BSD-3-Clause_MicrosoftCorporation.html"
+}, {
+  "name" : "JetBrains NuGet Commands Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet Common Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet Configurations Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet Core Package",
+  "url" : "https://github.com/NuGet/NuGet2",
+  "version" : "2.14.2.20220408",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet Credentials Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet DependencyResolver Core Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet Frameworks Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet LibraryModel Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet PackageManagement Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet Packaging Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet ProjectModel Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet Protocol Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet Resolver Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains NuGet Versioning Package",
+  "url" : "https://aka.ms/nugetprj",
+  "version" : "6.5.20230302.101",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains Platform LevelDB Native DLLs",
+  "url" : "https://github.com/google/leveldb",
+  "version" : "20221018.88.0",
+  "license" : "BSD 3-Clause \"New\" or \"Revised\" License (JetBrains)",
+  "licenseUrl" : "https://spdx.org/licenses/BSD-3-Clause.html"
+}, {
+  "name" : "JetBrains Profiler Api Package",
+  "url" : "https://github.com/JetBrains/profiler-api/blob/master/README.md",
+  "version" : "1.3.0",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains Profiler SelfApi Package",
+  "url" : "https://github.com/JetBrains/profiler-self-api/blob/master/README.md",
+  "version" : "2.4.2",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains RdFramework Package",
+  "url" : "https://github.com/JetBrains/rd",
+  "version" : "2023.1.2",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains RdFramework Reflection Package",
+  "url" : "https://github.com/JetBrains/rd",
+  "version" : "2023.1.2",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains ReSharper TestRunner Adapters MsTest Package",
+  "url" : "https://www.jetbrains.com/resharper/",
+  "version" : "2.11.1.39",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "JetBrains ReSharper TestRunner Adapters NUnit2 Package",
+  "url" : "https://www.jetbrains.com/resharper/",
+  "version" : "2.11.1.30",
+  "license" : "MIT License (Charlie Poole, Rob Prouse and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_CharliePoole-RobProuse-and-Contributors.html"
+}, {
+  "name" : "JetBrains ReSharper TestRunner Adapters NUnit3 Package",
+  "url" : "https://www.jetbrains.com/resharper/",
+  "version" : "2.11.1.61",
+  "license" : "MIT License (Charlie Poole, Rob Prouse and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_CharliePoole-RobProuse-and-Contributors.html"
+}, {
+  "name" : "JetBrains ReSharper TestRunner Adapters VsTest Package",
+  "url" : "https://www.jetbrains.com/resharper/",
+  "version" : "2.11.1.12",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "JetBrains ReSharper TestRunner Adapters XUnit Package",
+  "url" : "https://www.jetbrains.com/resharper/",
+  "version" : "2.11.1.35",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains ReSharper TestRunner Package",
+  "url" : "https://www.jetbrains.com/resharper/",
+  "version" : "2.11.1.99",
+  "license" : "Apache License 2.0, Microsoft Software License Terms (Microsoft .NET Library), MIT License (Charlie Poole, Rob Prouse and Contributors), MIT License (James Newton-King)",
+  "licenseUrl" : "https://www.nuget.org/packages/JetBrains.ReSharper.TestRunner/2.11.2.94/License"
+}, {
+  "name" : "JetBrains Repack DiaSymReader PortablePdb Package",
+  "url" : "https://github.com/dotnet/symreader-portable.git",
+  "version" : "1.7.0.20220711",
+  "license" : "MIT License (JetBrains.Repack.DiaSymReader.PortablePdb)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains ReverseMarkdown Package",
+  "url" : "https://github.com/mysticmind/reversemarkdown-net",
+  "version" : "3.23.1.18",
+  "license" : "MIT License (Babu Annamalai)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Roslyn References Repack Package",
+  "url" : "https://jetbrains.com/",
+  "version" : "42.42.20230303.171123",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains Runtime",
+  "url" : "https://github.com/JetBrains/JetBrainsRuntime",
+  "version" : "11",
+  "license" : "GNU General Public License, version 2, with the Classpath Exception",
+  "licenseUrl" : "https://github.com/JetBrains/JetBrainsRuntime/blob/master/LICENSE"
+}, {
+  "name" : "JetBrains Runtime API",
+  "url" : "https://github.com/JetBrains/JetBrainsRuntime",
+  "version" : "17.1.5.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "JetBrains SharpGen Runtime COM Package",
+  "url" : "https://github.com/jkoritzinsky/SharpGen.Runtime.COM",
+  "version" : "2.0.20221011.82",
+  "license" : "MIT License (Alexandre Mutel, Jeremy Koritzinsky)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_AlexandreMutel-JeremyKoritzinsky.html"
+}, {
+  "name" : "JetBrains SharpGen Runtime Package",
+  "url" : "https://github.com/jkoritzinsky/SharpGenTools",
+  "version" : "2.0.20221011.82",
+  "license" : "MIT License (jkoritzinsky)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Tmds DBus Package",
+  "url" : "",
+  "version" : "0.11.0.149",
+  "license" : "MIT License (Tom Deseyn)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "JetBrains Toolset RefAsm Net461 NetStandard Package",
+  "url" : "https://jetbrains.com/",
+  "version" : "2.0.20210225.212946",
+  "license" : "MIT License (JetBrains)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_JetBrains.html"
+}, {
+  "name" : "JetBrains monodoc Package",
+  "url" : "https://github.com/mono/api-doc-tools",
+  "version" : "2022.6.25",
+  "license" : "MIT License (Xamarin Inc)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_XamarinInc.html"
+}, {
+  "name" : "JetBrains.DesignerInterop",
+  "url" : "https://github.com/kirillgla/JetBrains.EnvDTE",
+  "version" : "20210118.30.0",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains.EnvDTE",
+  "url" : "https://github.com/kirillgla/JetBrains.EnvDTE",
+  "version" : "20220221.47.0",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "JetBrains.Rider.Crossgen.Refs",
+  "url" : "",
+  "version" : "20210929.1.0",
+  "license" : "MIT License (JetBrains)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_JetBrains.html"
+}, {
+  "name" : "JetBrains.SharpZipLib.Stripped",
+  "url" : "https://github.com/JetBrains/SharpZipLib",
+  "version" : "1.3.3.17",
+  "license" : "MIT License (SharpZipLib Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_SharpZipLibContributors.html"
+}, {
+  "name" : "JetBrains.System.ServiceProcess.ServiceController",
+  "url" : "https://github.com/dotnet/corefx",
+  "version" : "4.7.2",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "Jettison",
+  "url" : "https://github.com/codehaus/jettison",
+  "version" : "1.4.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "Jing",
+  "url" : "https://www.thaiopensource.com/relaxng/jing.html",
+  "version" : "20030619",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://opensource.org/license/bsd-3-clause/"
+}, {
+  "name" : "Jitsi Utilities",
+  "url" : "https://github.com/jitsi/jitsi-utils",
+  "version" : "1.0-112-gd92472a",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/jitsi/jitsi-utils/blob/master/LICENSE"
+}, {
+  "name" : "Jline",
+  "url" : "https://github.com/jline/jline3",
+  "version" : "3.21.0",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://github.com/jline/jline3/blob/master/LICENSE.txt"
+}, {
+  "name" : "Joni",
+  "url" : "https://github.com/jruby/joni",
+  "version" : "2.1.44",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/jruby/joni/blob/master/LICENSE"
+}, {
+  "name" : "Json.NET",
+  "url" : "https://www.newtonsoft.com/json",
+  "version" : "13.0.1",
+  "license" : "MIT License (James Newton-King)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_JamesNewtonKing.html"
+}, {
+  "name" : "Kotlin Coroutines for Guava",
+  "url" : "https://github.com/Kotlin/kotlinx.coroutines",
+  "version" : "1.6.4",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/Kotlin/kotlinx.coroutines/blob/master/LICENSE.txt"
+}, {
+  "name" : "Kotlin Coroutines for JDK 8",
+  "url" : "https://github.com/Kotlin/kotlinx.coroutines",
+  "version" : "1.6.4",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/Kotlin/kotlinx.coroutines/blob/master/LICENSE.txt"
+}, {
+  "name" : "Kotlin Coroutines for Slf4j",
+  "url" : "https://github.com/Kotlin/kotlinx.coroutines",
+  "version" : "1.6.4",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/Kotlin/kotlinx.coroutines/blob/master/LICENSE.txt"
+}, {
+  "name" : "Kotlin Standard Library",
+  "url" : "https://github.com/JetBrains/kotlin",
+  "version" : "1.8.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/kotlin/blob/master/license/LICENSE.txt"
+}, {
+  "name" : "Kotlin multiplatform / multi-format serialization",
+  "url" : "https://github.com/Kotlin/kotlinx.serialization",
+  "version" : "1.4.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/Kotlin/kotlinx.serialization/blob/master/LICENSE.txt"
+}, {
+  "name" : "Kotlin multiplatform / multi-format serialization",
+  "url" : "https://github.com/Kotlin/kotlinx.serialization",
+  "version" : "1.4.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/Kotlin/kotlinx.serialization/blob/master/LICENSE.txt"
+}, {
+  "name" : "Kotlin multiplatform / multi-format serialization",
+  "url" : "https://github.com/Kotlin/kotlinx.serialization",
+  "version" : "1.4.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/Kotlin/kotlinx.serialization/blob/master/LICENSE.txt"
+}, {
+  "name" : "Kotlin reflection library",
+  "url" : "https://github.com/JetBrains/kotlin",
+  "version" : "1.8.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/kotlin/blob/master/license/LICENSE.txt"
+}, {
+  "name" : "Kryo5",
+  "url" : "https://github.com/EsotericSoftware/kryo",
+  "version" : "5.4.0",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://github.com/EsotericSoftware/kryo/blob/master/LICENSE.md"
+}, {
+  "name" : "LevelDB",
+  "url" : "https://github.com/google/leveldb",
+  "version" : "1.2.1",
+  "license" : "BSD 3-Clause \"New\" or \"Revised\" License (The LevelDB Authors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/BSD-3-Clause_TheLevelDBAuthors.html"
+}, {
+  "name" : "Log4j",
+  "url" : "https://www.slf4j.org/legacy.html#log4j-over-slf4j",
+  "version" : "1.7.36",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "Lucene.Net",
+  "url" : "http://lucenenet.apache.org/",
+  "version" : "3.0.3",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "MSBuild Binary and Structured Log Viewer",
+  "url" : "https://github.com/KirillOsenkov/MSBuildStructuredLog",
+  "version" : "custom revision",
+  "license" : "MIT",
+  "licenseUrl" : "https://raw.githubusercontent.com/KirillOsenkov/MSBuildStructuredLog/main/LICENSE"
+}, {
+  "name" : "MarkdownJ",
+  "url" : "https://github.com/myabc/markdownj",
+  "version" : "0.4.2",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://opensource.org/licenses/BSD-3-Clause"
+}, {
+  "name" : "Maven Resolver Provider",
+  "url" : "https://maven.apache.org/ref/3.6.1/maven-resolver-provider/",
+  "version" : "3.8.5",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://maven.apache.org/"
+}, {
+  "name" : "Microba",
+  "url" : "https://microba.sourceforge.net/",
+  "version" : "0.4.2",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://microba.sourceforge.net/license.txt"
+}, {
+  "name" : "Microsoft Authentication Library (MSAL) for Java",
+  "url" : "https://github.com/AzureAD/microsoft-authentication-library-for-java",
+  "version" : "1.13.4",
+  "license" : "MIT",
+  "licenseUrl" : "https://raw.githubusercontent.com/AzureAD/microsoft-authentication-library-for-java/dev/LICENSE"
+}, {
+  "name" : "Microsoft Bcl AsyncInterfaces Package",
+  "url" : "https://dot.net/",
+  "version" : "6.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "Microsoft CodeAnalysis FlowAnalysis Utilities Package",
+  "url" : "https://github.com/dotnet/roslyn-analyzers",
+  "version" : "2.9.5",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "Microsoft DiaSymReader Package",
+  "url" : "https://github.com/dotnet/symreader",
+  "version" : "1.4.0",
+  "license" : "MIT License (Microsoft)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "Microsoft Diagnostics NETCore Client Package",
+  "url" : "https://github.com/dotnet/diagnostics",
+  "version" : "0.2.221401",
+  "license" : "MIT License (Microsoft)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "Microsoft Expression Blend SDK",
+  "url" : "https://www.microsoft.com/en-us/download/details.aspx?id=10801",
+  "version" : "3.0.40218.1",
+  "license" : "Microsoft Software License Terms (Microsoft Expression Blend SDK for .NET Framework 4.0)",
+  "licenseUrl" : "https://visualstudio.microsoft.com/license-terms/expressionblendsdk/"
+}, {
+  "name" : "Microsoft Extensions DependencyModel Package",
+  "url" : "https://dot.net/",
+  "version" : "3.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "Microsoft Extensions FileProviders Abstractions Package",
+  "url" : "https://asp.net/",
+  "version" : "2.2.0",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "Microsoft Extensions FileSystemGlobbing Package",
+  "url" : "https://asp.net/",
+  "version" : "2.2.0",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "Microsoft Extensions Primitives Package",
+  "url" : "https://asp.net/",
+  "version" : "2.2.0",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "Microsoft IdentityModel JsonWebTokens Package",
+  "url" : "https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet",
+  "version" : "6.17.0",
+  "license" : "MIT License (Microsoft)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "Microsoft IdentityModel Logging Package",
+  "url" : "https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet",
+  "version" : "6.17.0",
+  "license" : "MIT License (Microsoft)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "Microsoft IdentityModel Tokens Package",
+  "url" : "https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet",
+  "version" : "6.17.0",
+  "license" : "MIT License (Microsoft)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "Microsoft OAuth 2.0 User Agent library for Javay",
+  "url" : "https://github.com/Microsoft/oauth2-useragent",
+  "version" : "0.11.3",
+  "license" : "MIT",
+  "licenseUrl" : "https://raw.githubusercontent.com/microsoft/oauth2-useragent/master/License.txt"
+}, {
+  "name" : "Microsoft Research Detours Package",
+  "url" : "https://github.com/microsoft/Detours",
+  "version" : "4.0.1",
+  "license" : "MIT License (Microsoft Corporation)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_MicrosoftCorporation.html"
+}, {
+  "name" : "Microsoft Windows DbgHelp",
+  "url" : "",
+  "version" : "10.1.20220822",
+  "license" : "Microsoft Software License Terms (Microsoft Windows Software Development Kit (SDK) for Windows)",
+  "licenseUrl" : "https://learn.microsoft.com/en-us/legal/windows-sdk/license"
+}, {
+  "name" : "Microsoft Windows SymSrv",
+  "url" : "",
+  "version" : "10.1.20220822",
+  "license" : "Microsoft Software License Terms (Microsoft Windows Software Development Kit (SDK) for Windows)",
+  "licenseUrl" : "https://learn.microsoft.com/en-us/legal/windows-sdk/license"
+}, {
+  "name" : "Microsoft Xml Document Transformation",
+  "url" : "https://github.com/aspnet/xdt",
+  "version" : "3.0.0",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "Microsoft.DiaSymReader.Native",
+  "url" : "https://github.com/dotnet/roslyn",
+  "version" : "1.7.0",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "Microsoft.Extensions.DotNetDeltaApplier",
+  "url" : "",
+  "version" : "1.0.3",
+  "license" : "MIT License (JetBrains.Microsoft.Extensions.DotNetDeltaApplier)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "Microsoft.Owin",
+  "url" : "http://katanaproject.codeplex.com/",
+  "version" : "3.0.1",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "Microsoft.Owin.FileSystems",
+  "url" : "http://katanaproject.codeplex.com/",
+  "version" : "3.0.1",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "Microsoft.Owin.Host.HttpListener",
+  "url" : "http://katanaproject.codeplex.com/",
+  "version" : "3.0.1",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "Microsoft.Owin.Hosting",
+  "url" : "http://katanaproject.codeplex.com/",
+  "version" : "3.0.1",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "Microsoft.Owin.StaticFiles",
+  "url" : "http://katanaproject.codeplex.com/",
+  "version" : "3.0.1",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "Microsoft.TestPlatform.TranslationLayer",
+  "url" : "https://github.com/microsoft/vstest/",
+  "version" : "16.0.0.20191015",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "Microsoft.Web.Administration",
+  "url" : "https://msdn.microsoft.com/en-us/library/microsoft.web.administration(v=vs.90).aspx",
+  "version" : "11.0.0",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "Microsoft.Win32.Registry",
+  "url" : "https://dot.net/",
+  "version" : "4.0.0",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "MigLayout",
+  "url" : "https://www.miglayout.com/",
+  "version" : "11.0",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://www.miglayout.com/mavensite/license.html"
+}, {
+  "name" : "Mono.Cecil",
+  "url" : "http://github.com/jbevain/cecil/",
+  "version" : "0.11.3",
+  "license" : "MIT License (Jb Evain, Novell Inc)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_JbEvain-NovellInc.html"
+}, {
+  "name" : "Mono.Debugger.Libs",
+  "url" : "https://github.com/mono/debugger-libs",
+  "version" : "1.0.0",
+  "license" : "MIT License (Novell Inc, Xamarin Inc)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NovellInc-XamarinInc.html"
+}, {
+  "name" : "NVelocity Package",
+  "url" : "",
+  "version" : "1.0.3",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "NanoXML",
+  "url" : "https://mvnrepository.com/artifact/be.cyberelf.nanoxml/nanoxml/2.2.3",
+  "version" : "2.2.3",
+  "license" : "zlib/libpng",
+  "licenseUrl" : "https://raw.githubusercontent.com/saulhidalgoaular/nanoxml/master/LICENSE.txt"
+}, {
+  "name" : "Nimbus Content Type",
+  "url" : "https://bitbucket.org/connect2id/nimbus-content-type",
+  "version" : "1.13.4",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://bitbucket.org/connect2id/nimbus-content-type/raw/996d9cb379c3eacf321cba62af4738e80f3316c3/LICENSE.txt"
+}, {
+  "name" : "Nimbus JOSE + JWT",
+  "url" : "https://bitbucket.org/connect2id/nimbus-jose-jwt/src/master/",
+  "version" : "1.13.4",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://bitbucket.org/connect2id/nimbus-jose-jwt/raw/dc130392643d98e7ee38a3fb9c0c566c074815ea/LICENSE.txt"
+}, {
+  "name" : "Nimbus Language Tags",
+  "url" : "https://bitbucket.org/connect2id/nimbus-language-tags",
+  "version" : "1.13.4",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://bitbucket.org/connect2id/nimbus-language-tags/raw/30894d8895c0f636126bd563e26d0866755d2112/LICENSE.txt"
+}, {
+  "name" : "Nimbus OAuth 2.0 & 2.1 SDK with OpenID Connect extensions",
+  "url" : "https://bitbucket.org/connect2id/oauth-2.0-sdk-with-openid-connect-extensions",
+  "version" : "1.13.4",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://bitbucket.org/connect2id/oauth-2.0-sdk-with-openid-connect-extensions/raw/50890a786f7d53bddb50d492adce18fe1b3931e5/LICENSE.txt"
+}, {
+  "name" : "OWIN",
+  "url" : "https://github.com/owin-contrib/owin-hosting/",
+  "version" : "1.0",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "Objenesis",
+  "url" : "https://objenesis.org/",
+  "version" : "3.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "Plexus Utils",
+  "url" : "https://github.com/codehaus-plexus/plexus-utils",
+  "version" : "3.5.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/codehaus-plexus/plexus-utils/blob/master/LICENSE.txt"
+}, {
+  "name" : "Projector client common",
+  "url" : "https://github.com/JetBrains/projector-client",
+  "version" : "b420b1ad",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/JetBrains/projector-client/blob/master/LICENSE.txt"
+}, {
+  "name" : "Protocol Buffers",
+  "url" : "https://developers.google.com/protocol-buffers",
+  "version" : "3.19.4",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://github.com/google/protobuf/blob/master/LICENSE"
+}, {
+  "name" : "Protocol Buffers",
+  "url" : "https://github.com/protocolbuffers/protobuf",
+  "version" : "3.0.0",
+  "license" : "BSD 3-Clause \"New\" or \"Revised\" License (Google Inc)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/BSD-3-Clause_GoogleInc.html"
+}, {
+  "name" : "Proxy Vole (JetBrains's fork)",
+  "url" : "https://github.com/JetBrains/intellij-deps-proxy-vole",
+  "version" : "1.0.18",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/MarkusBernhardt/proxy-vole/blob/master/LICENSE.md"
+}, {
+  "name" : "PureJavaComm",
+  "url" : "https://github.com/nyholku/purejavacomm",
+  "version" : "0.0.11.1",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://github.com/nyholku/purejavacomm/blob/master/LICENSE.txt"
+}, {
+  "name" : "Quiche",
+  "url" : "https://github.com/cloudflare/quiche",
+  "version" : "70",
+  "license" : "BSD 2-Clause",
+  "licenseUrl" : "https://github.com/cloudflare/quiche/blob/master/COPYING"
+}, {
+  "name" : "Redoc",
+  "url" : "https://github.com/Redocly/redoc",
+  "version" : "2.39",
+  "license" : null,
+  "licenseUrl" : "https://redocly.com/subscription-agreement/"
+}, {
+  "name" : "Relax NG Object Model",
+  "url" : "https://github.com/kohsuke/rngom",
+  "version" : "custom revision",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/kohsuke/rngom/blob/master/licenceheader.txt"
+}, {
+  "name" : "Rhino JavaScript Engine",
+  "url" : "https://github.com/mozilla/rhino",
+  "version" : "1.7.14",
+  "license" : "MPL 1.1",
+  "licenseUrl" : "https://www.mozilla.org/MPL/MPL-1.1.html"
+}, {
+  "name" : "Roboto",
+  "url" : "https://github.com/googlefonts/roboto",
+  "version" : "1.100141",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/google/roboto/blob/master/LICENSE"
+}, {
+  "name" : "SQLitePCLRaw.core",
+  "url" : "https://github.com/ericsink/SQLitePCL.raw",
+  "version" : "1.1.2",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "SSHJ",
+  "url" : "https://github.com/hierynomus/sshj",
+  "version" : "0.35.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/hierynomus/sshj/blob/master/LICENSE"
+}, {
+  "name" : "SkiaSharp",
+  "url" : "https://go.microsoft.com/fwlink/?linkid=868515",
+  "version" : "2.88.2.149",
+  "license" : "MIT License (Xamarin Inc, Microsoft Corporation)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_XamarinInc-MicrosoftCorporation.html"
+}, {
+  "name" : "SkiaSharp - Native Assets for Win32",
+  "url" : "https://go.microsoft.com/fwlink/?linkid=868515",
+  "version" : "2.88.2.149",
+  "license" : "MIT License (Xamarin Inc, Microsoft Corporation)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_XamarinInc-MicrosoftCorporation.html"
+}, {
+  "name" : "Slf4j",
+  "url" : "https://slf4j.org/",
+  "version" : "1.7.36",
+  "license" : "MIT",
+  "licenseUrl" : "https://www.slf4j.org/license.html"
+}, {
+  "name" : "SnakeYAML",
+  "url" : "https://bitbucket.org/snakeyaml/snakeyaml/",
+  "version" : "1.33",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://bitbucket.org/snakeyaml/snakeyaml/src/master/LICENSE.txt"
+}, {
+  "name" : "SourceCodePro",
+  "url" : "https://github.com/adobe-fonts/source-code-pro",
+  "version" : "2.010",
+  "license" : "OFL",
+  "licenseUrl" : "https://github.com/adobe-fonts/source-code-pro/blob/master/LICENSE.md"
+}, {
+  "name" : "Sprache.JetBrains",
+  "url" : "https://github.com/sprache/Sprache",
+  "version" : "2.1.0",
+  "license" : "MIT License (Nicholas Blumhardt)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NicholasBlumhardt.html"
+}, {
+  "name" : "StreamEx",
+  "url" : "https://github.com/amaembo/streamex",
+  "version" : "0.8.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/amaembo/streamex/blob/master/LICENSE"
+}, {
+  "name" : "Stubs for Microsoft.WindowsDesktop.App",
+  "url" : "http://www.jetbrains.com/",
+  "version" : "0.0.18",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "Stylelint JSON Schema (.stylelintrc-schema.json)",
+  "url" : "https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/stylelintrc.json",
+  "version" : "custom revision",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://raw.githubusercontent.com/SchemaStore/schemastore/master/LICENSE"
+}, {
+  "name" : "Swagger UI Dist",
+  "url" : "https://www.npmjs.com/package/swagger-ui-dist",
+  "version" : "4.10.3",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "System Composition AttributedModel Package",
+  "url" : "https://dot.net/",
+  "version" : "6.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System Composition Convention Package",
+  "url" : "https://dot.net/",
+  "version" : "6.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System Composition Hosting Package",
+  "url" : "https://dot.net/",
+  "version" : "6.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System Composition Runtime Package",
+  "url" : "https://dot.net/",
+  "version" : "6.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System Composition TypedParts Package",
+  "url" : "https://dot.net/",
+  "version" : "6.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System Reactive Package",
+  "url" : "https://github.com/dotnet/reactive",
+  "version" : "5.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System Threading Channels Package",
+  "url" : "https://dot.net/",
+  "version" : "6.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Buffers",
+  "url" : "https://dot.net/",
+  "version" : "4.5.1",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.CodeDom",
+  "url" : "https://github.com/dotnet/corefx",
+  "version" : "4.7.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Collections.Immutable",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "5.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.ComponentModel.Annotations",
+  "url" : "https://dot.net/",
+  "version" : "4.5.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Configuration.ConfigurationManager",
+  "url" : "https://github.com/dotnet/corefx",
+  "version" : "4.7.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Diagnostics.EventLog",
+  "url" : "https://github.com/dotnet/corefx",
+  "version" : "4.7.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Diagnostics.TraceSource",
+  "url" : "https://dot.net/",
+  "version" : "4.0.0",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "System.Drawing.Common",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "5.0.2",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.IO.FileSystem.AccessControl",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "5.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.IO.Ports",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "5.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Memory",
+  "url" : "https://dot.net/",
+  "version" : "4.5.4",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Numerics.Vectors",
+  "url" : "https://dot.net/",
+  "version" : "4.5.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Reflection",
+  "url" : "https://dot.net/",
+  "version" : "4.1.0",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "System.Reflection.DispatchProxy",
+  "url" : "https://dot.net/",
+  "version" : "4.4.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Reflection.Metadata",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "5.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Reflection.TypeExtensions",
+  "url" : "https://dot.net/",
+  "version" : "4.1.0",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "System.Runtime.CompilerServices.Unsafe",
+  "url" : "https://dot.net/",
+  "version" : "4.5.3",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Runtime.InteropServices.RuntimeInformation",
+  "url" : "https://dot.net/",
+  "version" : "4.3.0",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "System.Security.AccessControl",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "5.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Security.Cryptography.ProtectedData",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "5.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Security.Permissions",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "5.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Security.Principal.Windows",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "5.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.ServiceProcess.ServiceController",
+  "url" : "https://dot.net/",
+  "version" : "4.1.0",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "System.Text.Encoding.CodePages",
+  "url" : "https://dot.net/",
+  "version" : "4.3.0",
+  "license" : "Microsoft Software License Terms (Microsoft .NET Library)",
+  "licenseUrl" : "https://dotnet.microsoft.com/en-us/dotnet_library_license.htm"
+}, {
+  "name" : "System.Threading.AccessControl",
+  "url" : "https://github.com/dotnet/runtime",
+  "version" : "5.0.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.Threading.Tasks.Extensions",
+  "url" : "https://dot.net/",
+  "version" : "4.5.4",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "System.ValueTuple",
+  "url" : "https://dot.net/",
+  "version" : "4.5.0",
+  "license" : "MIT License (.NET Foundation and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_NetFoundation-and-Contributors.html"
+}, {
+  "name" : "TLS Channel",
+  "url" : "https://github.com/marianobarrios/tls-channel",
+  "version" : "0.6.2",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/marianobarrios/tls-channel/blob/master/LICENSE.txt"
+}, {
+  "name" : "TSLint JSON Schema (tslint-schema.json)",
+  "url" : "https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/tslint.json",
+  "version" : "custom revision",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://raw.githubusercontent.com/SchemaStore/schemastore/master/LICENSE"
+}, {
+  "name" : "TagSoup",
+  "url" : "https://ccil.org/~cowan/XML/tagsoup/",
+  "version" : "1.2.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "TeamCity Service Messages read/write access",
+  "url" : "https://github.com/JetBrains/TeamCity.ServiceMessages",
+  "version" : "3.0.20210120.1",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "TestNG",
+  "url" : "https://testng.org/doc/",
+  "version" : "7.7.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/cbeust/testng/blob/master/LICENSE.txt"
+}, {
+  "name" : "Trang",
+  "url" : "https://www.thaiopensource.com/relaxng/trang.html",
+  "version" : "custom revision",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://opensource.org/license/bsd-3-clause/"
+}, {
+  "name" : "Trove4j (JetBrains's fork)",
+  "url" : "https://github.com/JetBrains/intellij-deps-trove4j",
+  "version" : "1.0.20221201",
+  "license" : "LGPL",
+  "licenseUrl" : "https://github.com/JetBrains/intellij-deps-trove4j/blob/master/LICENSE.txt"
+}, {
+  "name" : "TypeScript",
+  "url" : "https://github.com/Microsoft/TypeScript/",
+  "version" : "1.6.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "UTF-8/16/32 C++ library",
+  "url" : "https://github.com/ww898/utf-cpp",
+  "version" : "2.2.2",
+  "license" : "MIT License (Mikhail Pilin)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_MikhailPilin.html"
+}, {
+  "name" : "Unidecode",
+  "url" : "https://github.com/xuender/unidecode",
+  "version" : "0.0.7",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/xuender/unidecode/blob/master/LICENSE"
+}, {
+  "name" : "Velocity",
+  "url" : "https://velocity.apache.org/",
+  "version" : "1.7",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://gitbox.apache.org/repos/asf?p=velocity-engine.git;a=blob_plain;f=LICENSE;hb=HEAD"
+}, {
+  "name" : "Vestris Resource Lib",
+  "url" : "https://github.com/dblock/resourcelib",
+  "version" : "1.4.20210120.2",
+  "license" : "MIT License (Daniel Doubrovkine, Vestris Inc)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_DanielDoubrovkine-VestrisInc.html"
+}, {
+  "name" : "Visual Studio Code",
+  "url" : "https://github.com/Microsoft/vscode/",
+  "version" : "1.33.1",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/Microsoft/vscode-react-native/blob/master/LICENSE.txt"
+}, {
+  "name" : "W3C CSS Validation Service",
+  "url" : "https://jigsaw.w3.org/css-validator/",
+  "version" : "2.2.6",
+  "license" : "W3C",
+  "licenseUrl" : "https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document"
+}, {
+  "name" : "WPF Contrib",
+  "url" : "https://github.com/aelij/WPFContrib/",
+  "version" : "2.0.20170610",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "WiX: Windows Installer XML Toolset",
+  "url" : "http://wixtoolset.org/",
+  "version" : "3.11.0",
+  "license" : "Microsoft Reciprocal License",
+  "licenseUrl" : "https://spdx.org/licenses/MS-RL.html"
+}, {
+  "name" : "Windows 7 API Code Pack — Core + Shell, without PDBs",
+  "url" : "http://code.msdn.microsoft.com/WindowsAPICodePack/",
+  "version" : "1.1.20210120.1",
+  "license" : "Microsoft Software License Terms (Microsoft Windows API Code Pack for Microsoft .NET Framework)",
+  "licenseUrl" : "https://github.com/aybe/Windows-API-Code-Pack-1.1/blob/master/LICENCE"
+}, {
+  "name" : "XMLBeans",
+  "url" : "https://xmlbeans.apache.org/",
+  "version" : "4.0.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://svn.jetbrains.org/idea/Trunk/bundled/WebServices/resources/lib/xmlbeans-2.3.0/xmlbeans.LICENSE"
+}, {
+  "name" : "XStream",
+  "url" : "https://x-stream.github.io/",
+  "version" : "1.4.20",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://x-stream.github.io/license.html"
+}, {
+  "name" : "XZ for Java",
+  "url" : "https://tukaani.org/xz/java.html",
+  "version" : "1.9",
+  "license" : "Public Domain",
+  "licenseUrl" : "https://git.tukaani.org/?p=xz-java.git;a=blob;f=COPYING;h=8dd17645c4610c3d5eed9bcdd2699ecfac00406b;hb=refs/heads/master"
+}, {
+  "name" : "Xerces",
+  "url" : "https://xerces.apache.org/xerces2-j/",
+  "version" : "2.12.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://svn.apache.org/repos/asf/xerces/java/trunk/LICENSE"
+}, {
+  "name" : "Xerial SQLite JDBC",
+  "url" : "https://github.com/xerial/sqlite-jdbc",
+  "version" : "3.40.0-11",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/xerial/sqlite-jdbc/blob/master/LICENSE"
+}, {
+  "name" : "Xerial SQLite JDBC",
+  "url" : "https://github.com/xerial/sqlite-jdbc",
+  "version" : "3.40.0.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/xerial/sqlite-jdbc/blob/master/LICENSE"
+}, {
+  "name" : "XmlRPC",
+  "url" : "https://ws.apache.org/xmlrpc/xmlrpc2/",
+  "version" : "2.0.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://ws.apache.org/xmlrpc/xmlrpc2/license.html"
+}, {
+  "name" : "YamlDotNet Signed Package",
+  "url" : "https://github.com/aaubry/YamlDotNet/wiki",
+  "version" : "5.2.1",
+  "license" : "MIT License (Antoine Aubry and Contributors)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_AntoineAubry-and-Contributors.html"
+}, {
+  "name" : "YourKit Java Profiler",
+  "url" : "https://yourkit.com/",
+  "version" : "2022.9.162",
+  "license" : "Commercial",
+  "licenseUrl" : "https://www.yourkit.com/purchase/license.html"
+}, {
+  "name" : "aalto-xml",
+  "url" : "https://github.com/FasterXML/aalto-xml/",
+  "version" : "1.3.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/FasterXML/aalto-xml/blob/master/LICENSE"
+}, {
+  "name" : "ap-validation",
+  "url" : "https://github.com/JetBrains/ap-validation",
+  "version" : "67",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/ap-validation/blob/master/LICENSE"
+}, {
+  "name" : "async-profiler (JetBrains's fork)",
+  "url" : "https://github.com/JetBrains/async-profiler",
+  "version" : "2.9-11",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://raw.githubusercontent.com/async-profiler/async-profiler/master/LICENSE"
+}, {
+  "name" : "batik",
+  "url" : "https://xmlgraphics.apache.org/batik/",
+  "version" : "1.16.0-35",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://xmlgraphics.apache.org/batik/license.html"
+}, {
+  "name" : "blockmap",
+  "url" : "https://github.com/JetBrains/plugin-blockmap-patches",
+  "version" : "1.0.6",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/plugin-blockmap-patches/blob/master/LICENSE"
+}, {
+  "name" : "bouncy-castle-pgp",
+  "url" : "https://bouncycastle.org",
+  "version" : "1.72.2",
+  "license" : "MIT",
+  "licenseUrl" : "https://bouncycastle.org/licence.html"
+}, {
+  "name" : "bouncy-castle-provider",
+  "url" : "https://bouncycastle.org",
+  "version" : "1.72",
+  "license" : "MIT",
+  "licenseUrl" : "https://bouncycastle.org/licence.html"
+}, {
+  "name" : "brotli",
+  "url" : "https://github.com/google/brotli",
+  "version" : "0.1.2",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/google/brotli/blob/master/LICENSE"
+}, {
+  "name" : "caffeine",
+  "url" : "https://github.com/ben-manes/caffeine",
+  "version" : "3.1.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/ben-manes/caffeine/blob/master/LICENSE"
+}, {
+  "name" : "classgraph",
+  "url" : "https://github.com/classgraph/classgraph",
+  "version" : "4.8.154",
+  "license" : "codehaus",
+  "licenseUrl" : "https://github.com/codehaus/classworlds/blob/master/classworlds/LICENSE.txt"
+}, {
+  "name" : "dbus-java",
+  "url" : "https://github.com/hypfvieh/dbus-java",
+  "version" : "4.2.1",
+  "license" : "LGPL",
+  "licenseUrl" : "https://github.com/hypfvieh/dbus-java/blob/dbus-java-3.0/LICENSE"
+}, {
+  "name" : "docker-java-api",
+  "url" : "https://github.com/docker-java/docker-java",
+  "version" : "3.2.11",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "docker-java-core",
+  "url" : "https://github.com/docker-java/docker-java",
+  "version" : "3.2.11",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "docker-java-transport",
+  "url" : "https://github.com/docker-java/docker-java",
+  "version" : "3.2.11",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "docker-java-transport-httpclient5",
+  "url" : "https://github.com/docker-java/docker-java",
+  "version" : "3.2.11",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "entities",
+  "url" : "https://github.com/fb55/entities",
+  "version" : "custom revision",
+  "license" : "BSD 2-Clause",
+  "licenseUrl" : "https://github.com/fb55/entities/blob/master/LICENSE"
+}, {
+  "name" : "error-prone-annotations",
+  "url" : "https://github.com/google/error-prone",
+  "version" : "2.16",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/google/error-prone/blob/master/COPYING"
+}, {
+  "name" : "eslint",
+  "url" : "https://eslint.org/",
+  "version" : "3.17",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/eslint/eslint/blob/master/LICENSE"
+}, {
+  "name" : "fastutil",
+  "url" : "https://github.com/vigna/fastutil",
+  "version" : "8.5.11-18",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/vigna/fastutil/blob/master/LICENSE-2.0"
+}, {
+  "name" : "gRPC Kotlin: Stub",
+  "url" : "https://grpc.io/",
+  "version" : "1.2.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/grpc/grpc-java/blob/master/LICENSE"
+}, {
+  "name" : "gRPC: Core",
+  "url" : "https://grpc.io/",
+  "version" : "1.51.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/grpc/grpc-java/blob/master/LICENSE"
+}, {
+  "name" : "gRPC: Netty Shaded",
+  "url" : "https://grpc.io/",
+  "version" : "1.51.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/grpc/grpc-java/blob/master/LICENSE"
+}, {
+  "name" : "gRPC: Protobuf",
+  "url" : "https://grpc.io/",
+  "version" : "1.51.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/grpc/grpc-java/blob/master/LICENSE"
+}, {
+  "name" : "gRPC: Stub",
+  "url" : "https://grpc.io/",
+  "version" : "1.51.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/grpc/grpc-java/blob/master/LICENSE"
+}, {
+  "name" : "github.oshi.core",
+  "url" : "https://github.com/oshi/oshi",
+  "version" : "6.2.2",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/oshi/oshi/blob/master/LICENSE"
+}, {
+  "name" : "htmlparser2",
+  "url" : "https://github.com/fb55/htmlparser2",
+  "version" : "custom revision",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/fb55/htmlparser2/blob/master/LICENSE"
+}, {
+  "name" : "imgscalr",
+  "url" : "https://github.com/thebuzzmedia/imgscalr",
+  "version" : "4.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/rkalla/imgscalr/blob/master/LICENSE"
+}, {
+  "name" : "ini4j (JetBrains's fork)",
+  "url" : "https://github.com/JetBrains/intellij-deps-ini4j",
+  "version" : "0.5.5-2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/intellij-deps-ini4j/blob/master/LICENSE.txt"
+}, {
+  "name" : "intellij-markdown",
+  "url" : "https://github.com/JetBrains/markdown",
+  "version" : "0.4.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/markdown/blob/master/LICENSE"
+}, {
+  "name" : "jackson-jr-objects",
+  "url" : "https://github.com/FasterXML/jackson-jr",
+  "version" : "2.14.1",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/FasterXML/jackson-jr/blob/2.14/LICENSE"
+}, {
+  "name" : "jediterm-core",
+  "url" : "https://github.com/JetBrains/jediterm",
+  "version" : "3.16",
+  "license" : "LGPL 3",
+  "licenseUrl" : "https://github.com/JetBrains/jediterm/blob/master/LICENSE-LGPLv3.txt"
+}, {
+  "name" : "jediterm-ui",
+  "url" : "https://github.com/JetBrains/jediterm",
+  "version" : "3.16",
+  "license" : "LGPL 3",
+  "licenseUrl" : "https://github.com/JetBrains/jediterm/blob/master/LICENSE-LGPLv3.txt"
+}, {
+  "name" : "jnaerator-runtime",
+  "url" : "https://github.com/nativelibs4java/JNAerator",
+  "version" : "0.12",
+  "license" : "LGPL-3.0",
+  "licenseUrl" : "https://github.com/nativelibs4java/JNAerator/blob/master/LICENSE.LGPL-3.0.txt"
+}, {
+  "name" : "jsch-agent-proxy",
+  "url" : "https://github.com/ymnk/jsch-agent-proxy",
+  "version" : "0.0.9",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://github.com/ymnk/jsch-agent-proxy/blob/master/LICENSE.txt"
+}, {
+  "name" : "jsch-agent-proxy-sshj",
+  "url" : "https://github.com/ymnk/jsch-agent-proxy",
+  "version" : "0.0.9",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://github.com/ymnk/jsch-agent-proxy/blob/master/LICENSE.txt"
+}, {
+  "name" : "jsoup",
+  "url" : "https://jsoup.org",
+  "version" : "1.15.3",
+  "license" : "MIT",
+  "licenseUrl" : "https://jsoup.org/license"
+}, {
+  "name" : "jts-io-common",
+  "url" : "https://github.com/locationtech/jts",
+  "version" : "1.18.2",
+  "license" : "Eclipse Public License 1.0",
+  "licenseUrl" : "https://www.eclipse.org/org/documents/epl-v10.html"
+}, {
+  "name" : "junixsocket-common",
+  "url" : "https://github.com/kohlschutter/junixsocket",
+  "version" : "2.6.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/kohlschutter/junixsocket/blob/main/LICENSE"
+}, {
+  "name" : "junixsocket-native-common",
+  "url" : "https://github.com/kohlschutter/junixsocket",
+  "version" : "2.6.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/kohlschutter/junixsocket/blob/main/LICENSE"
+}, {
+  "name" : "jzlib",
+  "url" : "https://www.jcraft.com/jzlib/",
+  "version" : "1.1.3",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "http://www.jcraft.com/jzlib/LICENSE.txt"
+}, {
+  "name" : "kotlinx-datetime-jvm",
+  "url" : "https://github.com/Kotlin/kotlinx-datetime",
+  "version" : "0.4.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/Kotlin/kotlinx-datetime/blob/master/LICENSE.txt"
+}, {
+  "name" : "kotlinx.html",
+  "url" : "https://github.com/Kotlin/kotlinx.html",
+  "version" : "0.8.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/Kotlin/kotlinx.html/blob/master/LICENSE"
+}, {
+  "name" : "ktor.io TLS",
+  "url" : "https://github.com/ktorio/ktor",
+  "version" : "2.2.3",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/ktorio/ktor/blob/main/LICENSE"
+}, {
+  "name" : "libunwind",
+  "url" : "http://www.nongnu.org/libunwind/",
+  "version" : "1.4.0",
+  "license" : "MIT License (Hewlett-Packard Corporation)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_HewlettPackardCorporation.html"
+}, {
+  "name" : "lz4-java",
+  "url" : "https://github.com/lz4/lz4-java",
+  "version" : "1.8.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/lz4/lz4-java/blob/master/LICENSE.txt"
+}, {
+  "name" : "markdown4j",
+  "url" : "https://code.google.com/p/markdown4j/",
+  "version" : "2.2-cj-1.1",
+  "license" : "BSD 3-Clause",
+  "licenseUrl" : "https://opensource.org/licenses/BSD-3-Clause"
+}, {
+  "name" : "mercurial_prompthooks",
+  "url" : "https://github.com/willemv/mercurial_prompthooks",
+  "version" : "custom revision",
+  "license" : "GPLv2 (used as hg extension called from hg executable)",
+  "licenseUrl" : "https://github.com/willemv/mercurial_prompthooks/blob/master/LICENSE.txt"
+}, {
+  "name" : "mvstore",
+  "url" : "https://github.com/h2database/h2database",
+  "version" : "2.1.219-jb.4",
+  "license" : "Eclipse Public License 1.0",
+  "licenseUrl" : "https://github.com/h2database/h2database/blob/master/LICENSE.txt"
+}, {
+  "name" : "netty-buffer",
+  "url" : "https://netty.io",
+  "version" : "4.1.86.Final",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "netty-codec-http",
+  "url" : "https://netty.io",
+  "version" : "4.1.86.Final",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "netty-handler-proxy",
+  "url" : "https://netty.io",
+  "version" : "4.1.86.Final",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "ngram-slp",
+  "url" : "https://github.com/SLP-team/SLP-Core",
+  "version" : "0.0.3",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/SLP-team/SLP-Core/blob/master/LICENSE"
+}, {
+  "name" : "opentelemetry",
+  "url" : "https://opentelemetry.io/",
+  "version" : "1.22.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/open-telemetry/opentelemetry-java/blob/main/LICENSE"
+}, {
+  "name" : "opentelemetry-exporter-otlp-common",
+  "url" : "https://opentelemetry.io/",
+  "version" : "1.22.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/open-telemetry/opentelemetry-java/blob/main/LICENSE"
+}, {
+  "name" : "opentelemetry-extension-kotlin",
+  "url" : "https://opentelemetry.io/",
+  "version" : "1.22.0",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/open-telemetry/opentelemetry-java/blob/main/LICENSE"
+}, {
+  "name" : "org.eclipse.lsp4j.jsonrpc:0.14.0",
+  "url" : "https://github.com/eclipse/lsp4j",
+  "version" : "0.19.0",
+  "license" : "Eclipse Public License 1.0",
+  "licenseUrl" : "https://www.eclipse.org/org/documents/epl-v10.html"
+}, {
+  "name" : "org.eclipse.lsp4j:0.14.0",
+  "url" : "https://github.com/eclipse/lsp4j",
+  "version" : "0.19.0",
+  "license" : "Eclipse Public License 1.0",
+  "licenseUrl" : "https://www.eclipse.org/org/documents/epl-v10.html"
+}, {
+  "name" : "org.eclipse.xtext.xbase",
+  "url" : "https://github.com/eclipse/xtext-lib",
+  "version" : "2.28.0",
+  "license" : "Eclipse Public License 1.0",
+  "licenseUrl" : "https://www.eclipse.org/org/documents/epl-v10.html"
+}, {
+  "name" : "package.json JSON Schema (packageJsonSchema.json)",
+  "url" : "https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/package.json",
+  "version" : "custom revision",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://raw.githubusercontent.com/SchemaStore/schemastore/master/LICENSE"
+}, {
+  "name" : "plist-cil Package",
+  "url" : "https://www.github.com/claunia/plist-cil",
+  "version" : "2.2.0",
+  "license" : "MIT License (Natalia Portillo)",
+  "licenseUrl" : "https://spdx.org/licenses/MIT.html"
+}, {
+  "name" : "protobuf-net",
+  "url" : "https://github.com/mgravell/protobuf-net",
+  "version" : "2.1.0",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "pty4j",
+  "url" : "https://github.com/JetBrains/pty4j",
+  "version" : "0.12.10",
+  "license" : "Eclipse Public License 1.0",
+  "licenseUrl" : "https://github.com/JetBrains/pty4j/blob/master/LICENSE"
+}, {
+  "name" : "rd Swing integration",
+  "url" : "https://github.com/JetBrains/rd/tree/master/rd-kt/rd-swing",
+  "version" : "2023.1.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/rd/blob/master/LICENSE"
+}, {
+  "name" : "rd core",
+  "url" : "https://github.com/JetBrains/rd/tree/master/rd-kt/rd-core",
+  "version" : "2023.1.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/rd/blob/master/LICENSE"
+}, {
+  "name" : "rd framework",
+  "url" : "https://github.com/JetBrains/rd/tree/master/rd-kt/rd-framework",
+  "version" : "2023.1.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/rd/blob/master/LICENSE"
+}, {
+  "name" : "rd generator",
+  "url" : "https://github.com/JetBrains/rd/tree/master/rd-kt/rd-gen",
+  "version" : "2023.1.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/rd/blob/master/LICENSE"
+}, {
+  "name" : "rd text buffers",
+  "url" : "https://github.com/JetBrains/rd/tree/master/rd-kt/rd-text",
+  "version" : "2023.1.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/rd/blob/master/LICENSE"
+}, {
+  "name" : "semver",
+  "url" : "https://github.com/npm/node-semver",
+  "version" : "6.3.0",
+  "license" : "ISC",
+  "licenseUrl" : "https://github.com/npm/node-semver/blob/main/LICENSE"
+}, {
+  "name" : "semver4j",
+  "url" : "https://github.com/vdurmont/semver4j",
+  "version" : "3.1.0",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/vdurmont/semver4j/blob/master/LICENSE.md"
+}, {
+  "name" : "slf4j-jdk14",
+  "url" : "https://slf4j.org/",
+  "version" : "1.7.36",
+  "license" : "MIT",
+  "licenseUrl" : "https://www.slf4j.org/license.html"
+}, {
+  "name" : "snakeyaml-engine",
+  "url" : "https://bitbucket.org/snakeyaml/snakeyaml-engine/",
+  "version" : "2.5",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://bitbucket.org/snakeyaml/snakeyaml-engine/src/master/LICENSE.txt"
+}, {
+  "name" : "swingx",
+  "url" : "https://mvnrepository.com/artifact/org.swinglabs/swingx-core/1.6.2-2/",
+  "version" : "1.6.2-2",
+  "license" : "LGPL 2.1",
+  "licenseUrl" : "https://www.opensource.org/licenses/lgpl-2.1.php"
+}, {
+  "name" : "tsconfig JSON Schema (tsconfig-schema.json)",
+  "url" : "https://github.com/SchemaStore/schemastore/blob/master/src/schemas/json/tsconfig.json",
+  "version" : "custom revision",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://raw.githubusercontent.com/SchemaStore/schemastore/master/LICENSE"
+}, {
+  "name" : "webpack 2.x-3.x JSON Schema (webpack-schema.json)",
+  "url" : "https://github.com/webpack/webpack/blob/master/schemas/WebpackOptions.json",
+  "version" : "2.x-3.x",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/webpack/webpack/blob/master/LICENSE"
+}, {
+  "name" : "webpack 4.x (webpack-schema4.json) and plugins (webpackPlugins/**) JSON Schemas",
+  "url" : "https://github.com/webpack/webpack/blob/master/schemas/",
+  "version" : "4.x",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/webpack/webpack/blob/master/LICENSE"
+}, {
+  "name" : "winp",
+  "url" : "https://github.com/jenkinsci/winp",
+  "version" : "1.30.1",
+  "license" : "MIT",
+  "licenseUrl" : "https://github.com/jenkinsci/winp/blob/master/LICENSE.txt"
+}, {
+  "name" : "xUnit.net",
+  "url" : "https://github.com/xunit/xunit",
+  "version" : "1.9.2",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "xUnit.net [Abstractions]",
+  "url" : "https://github.com/xunit/xunit",
+  "version" : "2.0.3",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "xUnit.net [Runner Utility]",
+  "url" : "https://github.com/xunit/xunit",
+  "version" : "2.4.1",
+  "license" : "Apache License 2.0",
+  "licenseUrl" : "https://spdx.org/licenses/Apache-2.0.html"
+}, {
+  "name" : "xml-apis-ext",
+  "url" : "https://xerces.apache.org/xml-commons/components/external",
+  "version" : "1.3.04",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "xml-resolver",
+  "url" : "https://xml.apache.org/commons/components/resolver/",
+  "version" : "1.2",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://www.apache.org/licenses/LICENSE-2.0"
+}, {
+  "name" : "xmlrpcnet Package",
+  "url" : "http://www.xml-rpc.net/",
+  "version" : "2.5.0",
+  "license" : "MIT License (Charles Cook)",
+  "licenseUrl" : "https://resources.jetbrains.com/licenses/MIT_CharlesCook.html"
+}, {
+  "name" : "yFiles",
+  "url" : "https://www.yworks.com/en/products_yfiles_about.htm",
+  "version" : "2.13",
+  "license" : "commercial, available on request",
+  "licenseUrl" : null
+}, {
+  "name" : "zip-signer",
+  "url" : "https://github.com/JetBrains/marketplace-zip-signer",
+  "version" : "0.1.8",
+  "license" : "Apache 2.0",
+  "licenseUrl" : "https://github.com/JetBrains/marketplace-zip-signer/blob/master/LICENSE"
+}, {
+  "name" : "zstd-jni",
+  "url" : "https://github.com/luben/zstd-jni",
+  "version" : "1.5.2-5",
+  "license" : "BSD 2-Clause",
+  "licenseUrl" : "https://github.com/luben/zstd-jni/blob/master/LICENSE"
+}, {
+  "name" : "zstd-jni-windows-aarch64",
+  "url" : "https://github.com/VladRassokhin/zstd-jni",
+  "version" : "1.5.2-5-25",
+  "license" : "BSD 2-Clause",
+  "licenseUrl" : "https://github.com/luben/zstd-jni/blob/master/LICENSE"
+} ]
